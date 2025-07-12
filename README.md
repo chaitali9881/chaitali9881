@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Chaitali Godse</h1>
-<h3 align="center">🔍 Passionate Data Analyst </h3>
+<h3 align="center">🔍 A passionate Data Analysis from India </h3>
 
 <p align="center">
   <a href="mailto:godsechaitali9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -37,6 +37,10 @@
 
 ---
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitali9881" alt="chaitali9881" /></a> </p>
+
+---
 
 ### 🤝 Let's Connect
 
