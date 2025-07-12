@@ -36,17 +36,17 @@
 
 ---
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitali9881" alt="chaitali9881" /></a> </p>
-
----
-
 ### 🤝 Let's Connect
 
 - 💌 Mail:godsechaitali9@gmail.com  
 - 🌐 LinkedIn: https://www.linkedin.com/in/chaitali-godse-247975339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitali9881" alt="chaitali9881" /></a> </p>
+
+---
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chaitali-Godse&label=Profile%20views&color=0e75b6&style=flat" />
