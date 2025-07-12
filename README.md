@@ -8,16 +8,6 @@
   <img src="https://img.shields.io/badge/Open%20to%20Work-%2300FFE0?style=for-the-badge&logo=freelancer&logoColor=white" />
 </p>
 
----
-<p align="center">
-  <a href="mailto:godsechaitali9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-godsechaitali9@gmail.com-%2300FFE0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/chaitali-godse-247975339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%2300FFE0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-</p>
-
 
 ---
 
