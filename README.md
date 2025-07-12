@@ -1,20 +1,50 @@
-<h1 align="center">Hi 👋, I'm Chaitali Godse</h1>
-<h3 align="center">A passionate Data Analysis from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitali9881&label=Profile%20views&color=0e75b6&style=flat" alt="chaitali9881" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitali9881" alt="chaitali9881" /></a> </p>
-
-- 🔭 I’m currently working on **Netflix data analysis project**
-
-- 📫 How to reach me **godsechaitali9@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chaitali-godse-247975339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chaitali-godse-247975339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<!-- Header Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chaitali-Godse/Chaitali-Godse/main/assets/banner.gif" alt="Banner" width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi there 👋, I'm Chaitali Godse</h1>
+<h3 align="center">🔍 Passionate Data Analyst </h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitali9881&show_icons=true&locale=en" alt="chaitali9881" /></p>
+<p align="center">
+  <a href="mailto:godsechaitali9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://[www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/chaitali-godse-247975339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Chaitali-Godse"><img src="https://img.shields.io/github/followers/Chaitali-Godse?style=social" /></a>
+</p>
+
+---
+
+### 🧠 About Me
+
+🔹 I specialize in **Data Cleaning, Visualization**  
+🔹 Experienced in working with **large datasets** using **Python, Pandas, and NumPy**  
+🔹 Create powerful dashboards using **Power BI & Excel**  
+🔹 Love creating **insightful visualizations** using **Matplotlib** and **Seaborn**  
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4584b6?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+---
+
+
+### 🤝 Let's Connect
+
+- 💌 Mail:godsechaitali9@gmail.com  
+- 🌐 LinkedIn: https://www.linkedin.com/in/chaitali-godse-247975339?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chaitali-Godse&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
