@@ -37,24 +37,6 @@
 ---
 
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaitali9881&theme=gruvbox&row=1&margin-w=15" />
-</p>
-
----
-
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitaligodse&show_icons=true&theme=calm&border_radius=10" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitaligodse&theme=calm&border_radius=10" />
-</p>
-
----
-
 ## 💌 Let’s Connect
 
 <p align="center">
